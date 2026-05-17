@@ -50,11 +50,11 @@ Current focus:
 ---
 
 ## Featured Projects
-
+<!--
 ### Smart Food Delivery Platform
 
 A real-world food delivery platform designed with innovative ideas and features adapted for the Nepalese market.
-
+-->
 ### Personal Portfolio Website
 
 Professional portfolio website showcasing projects, journey, skills, and experience.
