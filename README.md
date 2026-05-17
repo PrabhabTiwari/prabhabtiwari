@@ -50,7 +50,7 @@ I love building websites, exploring technology, learning new skills, and creatin
 
 ## 🌟 Featured Projects
 
-### 🍽 Smart Food Delivery Platform
+### 🍽 Smart Food Delivery Platform (planning to build)
 Real-world food delivery system with innovative features for Nepal.
 
 ### 🌐 Personal Portfolio Website
