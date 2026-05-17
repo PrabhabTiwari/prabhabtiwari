@@ -1,30 +1,31 @@
 <div align="center">
 
-# Hi! I'm Prabhab Tiwari
+# Prabhab Tiwari
 
-### IT Student | Web Developer | Tech Enthusiast | Leader
+### BIT Student | Web Developer | Technology Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer;BIT+Student;Technology+Enthusiast;Building+Ideas+Into+Impact" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=BIT+Student;Web+Developer;Technology+Enthusiast;Turning+Ideas+Into+Impact" />
 
 </div>
 
 ---
 
-##  About Me
+## About Me
 
-I'm **Prabhab Tiwari**, a passionate BIT student who enjoys turning ideas into practical digital solutions.
+I am Prabhab Tiwari, a Bachelor of Information Technology (BIT) student passionate about technology, coding, and building practical solutions.
 
-I love building websites, exploring technology, learning new skills, and creating projects that solve real-world problems.
+My interests revolve around web development, UI/UX, problem-solving, and creating digital projects that can make a meaningful impact. I enjoy learning new technologies and turning ideas into real applications.
 
-- 🌱 Currently learning **Full Stack Development**
-- 💻 Interested in **Web Development & UI/UX**
-- 🚀 Building practical projects and improving skills
-- 🎯 Goal: Use technology to create meaningful impact
-- ⚡ Fun fact: I enjoy combining technology with leadership and community work
+Current focus:
+
+- Full Stack Development
+- Real-world project development
+- UI/UX improvement
+- Technology and leadership
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="left">
 
@@ -34,47 +35,50 @@ I love building websites, exploring technology, learning new skills, and creatin
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=prabhabtiwari&show_icons=true)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=prabhabtiwari&show_icons=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhabtiwari&layout=compact)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhabtiwari&layout=compact"/>
 
-![](https://streak-stats.demolab.com?user=prabhabtiwari)
+<img height="170em" src="https://streak-stats.demolab.com/?user=prabhabtiwari"/>
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🍽 Smart Food Delivery Platform (planning to build)
-Real-world food delivery system with innovative features for Nepal.
+### Smart Food Delivery Platform
 
-### 🌐 Personal Portfolio Website
-Professional portfolio showcasing projects and journey.
+A real-world food delivery platform designed with innovative ideas and features adapted for the Nepalese market.
 
-### 📈 Data Analysis Projects
-University data, local data analysis, and visualization projects.
+### Personal Portfolio Website
 
-### 🏛 Organization & Club Websites
-Built websites for organizations and communities.
+Professional portfolio website showcasing projects, journey, skills, and experience.
 
----
+### Organization and Community Websites
 
-## 📌 Projects I've Worked On
+Projects focused on organizations, communities, and academic needs.
 
-✔ Rotaract Club Website  
-✔ Professor Portfolio Website  
-✔ Retired Professors Society Website  
-✔ School Website Projects  
-✔ Data Analysis Projects  
+### Data Analysis Projects
+
+Projects involving visualization, interpretation, and practical analysis.
 
 ---
 
-## 🌍 Connect With Me
+## Current Activities
+
+- Building practical web projects
+- Learning modern technologies
+- Improving development skills
+- Exploring innovative solutions
+
+---
+
+## Connect With Me
 
 <p align="left">
 
@@ -82,12 +86,16 @@ Built websites for organizations and communities.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+<a href="https://www.instagram.com/t_prab_hab/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
 <a href="https://www.facebook.com/tiwariprabhab">
-<img src="https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook"/>
+<img src="https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white"/>
 </a>
 
 <a href="https://prabhabtiwari.com.np">
-🌐 Portfolio
+Portfolio Website
 </a>
 
 </p>
