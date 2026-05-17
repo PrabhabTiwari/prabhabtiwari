@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋 I'm Prabhab Tiwari
+# Hi! I'm Prabhab Tiwari
 
-### 💻 IT Student | Web Developer | Tech Enthusiast | Leader
+### IT Student | Web Developer | Tech Enthusiast | Leader
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer;BIT+Student;Technology+Enthusiast;Building+Ideas+Into+Impact" />
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm **Prabhab Tiwari**, a passionate BIT student who enjoys turning ideas into practical digital solutions.
 
