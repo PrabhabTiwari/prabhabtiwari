@@ -4,7 +4,7 @@
 
 ###  Web Developer | Technology Enthusiast | Leader
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=BIT+Student;Web+Developer;Technology+Enthusiast;Turning+Ideas+Into+Impact" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=IT+Student;Web+Developer;Technology+Enthusiast;Rotaractor" />
 
 </div>
 
