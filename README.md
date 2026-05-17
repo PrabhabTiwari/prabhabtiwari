@@ -12,7 +12,7 @@
 
 ## About Me
 
-I am Prabhab Tiwari, a Bachelor of Information Technology (BIT) student passionate about technology, coding, and building practical solutions.
+I am Prabhab Tiwari, a Information Technology (IT) student passionate about technology, coding, and building practical solutions.
 
 My interests revolve around web development, UI/UX, problem-solving, and creating digital projects that can make a meaningful impact. I enjoy learning new technologies and turning ideas into real applications.
 
